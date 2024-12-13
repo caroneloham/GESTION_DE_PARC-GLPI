@@ -4,6 +4,20 @@
 
 [![GLPI](https://img.shields.io/badge/GLPI-009688?style=flat-square&logo=glpi&logoColor=white)](https://glpi-project.org/) [![LDAP](https://img.shields.io/badge/LDAP-000080?style=flat-square&logo=ldap&logoColor=white)](https://ldap.com/) [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)](https://httpd.apache.org/) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 
+## 📚 Description du Repository
+
+Ce repository propose un guide complet pour l'installation, la configuration et la gestion du parc informatique avec **GLPI** (Gestion Libre de Parc Informatique). Il inclut des instructions détaillées pour l'administration des équipements, la gestion des utilisateurs, la configuration du réseau et la sécurisation des infrastructures IT. 
+
+Les principales thématiques abordées sont :
+
+- **Gestion du parc matériel et logiciel** : Inventaire complet et suivi des équipements.
+- **Gestion des tickets d'incident** : Suivi et résolution des incidents.
+- **Configuration LDAP** : Synchronisation des utilisateurs avec un annuaire LDAP.
+- **Gestion des fournisseurs et budgets** : Suivi financier et administratif des équipements.
+- **Documentation graphique** : Captures d'écran et images pour illustrer les différentes étapes.
+
+Ce projet est idéal pour les administrateurs réseau et les responsables IT souhaitant centraliser et automatiser la gestion de leur parc informatique avec **GLPI**.
+
 ## 📊 Table des Matières
 
 - [Introduction](#introduction)  
