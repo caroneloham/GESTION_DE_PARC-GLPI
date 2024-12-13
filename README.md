@@ -6,20 +6,19 @@
 
 ## 📊 Table des Matières
 
-1. [Introduction](#1-introduction)  
-2. [Contexte](#2-contexte)  
-3. [Fonctionnalités de GLPI](#3-fonctionnalités-de-glpi)  
-4. [Structure du Repository](#4-structure-du-repository)  
-5. [Partie Pratique](#5-partie-pratique)  
-6. [Gestion des Utilisateurs](#6-gestion-des-utilisateurs-partie-2)  
-7. [Configuration de l'annuaire LDAP](#7-configuration-de-lannuaire-ldap-dans-glpi)  
-8. [Gestion des Tickets d’Incident](#8-gestion-des-tickets-dincident)  
-9. [Gestion des Connexions Réseaux](#9-gestion-des-connexions-réseaux)  
-10. [Gestion des Imprimantes](#10-gestion-des-imprimantes)  
+- [Introduction](#introduction)  
+- [Contexte](#contexte)  
+- [Fonctionnalités de GLPI](#fonctionnalités-de-glpi)  
+- [Structure du Repository](#structure-du-repository)  
+- [Gestion des Utilisateurs](#gestion-des-utilisateurs)  
+- [Configuration de l'annuaire LDAP](#configuration-de-lannuaire-ldap)  
+- [Gestion des Tickets d’Incident](#gestion-des-tickets-dincident)  
+- [Gestion des Connexions Réseaux](#gestion-des-connexions-réseaux)  
+- [Gestion des Imprimantes](#gestion-des-imprimantes)  
 
 ---
 
-## 📚 4. Structure du Repository
+## 📚 Structure du Repository
 
 ### 📂 **Repository Content**
 
@@ -40,58 +39,33 @@
 
 ---
 
-## 🎨 5. Partie Pratique
+## 💡 Introduction
 
-### 🛠️ Création des Statuts des Matériels
+La gestion du parc informatique est bien plus qu'un simple inventaire des équipements. Avec **GLPI** (Gestion Libre de Parc Informatique), vous pouvez :
 
-1. Allez dans **Configuration > Statuts**.
-2. Créez des statuts personnalisés pour chaque type de matériel (ex : PC, Serveur, Imprimante).
+- Suivre le cycle de vie des équipements et des logiciels.
+- Gérer les utilisateurs et les incidents.
+- Superviser les fournisseurs et le budget.
+- Assurer la gestion de la sécurité et des tickets d'incident.
 
-### 🛡️ Ajout de Systèmes d’Exploitation
-
-1. Accédez à **Inventaire > Systèmes d’Exploitation**.
-2. Ajoutez les OS utilisés (Windows, Linux, macOS).
-
-### 🏰 Création des Lieux et des Salles
-
-1. Allez dans **Administration > Lieux**.
-2. Ajoutez les différents bâtiments, étages et salles.
+Ce guide fournit une approche pratique et détaillée pour configurer **GLPI** afin de simplifier ces processus.
 
 ---
 
-## 👥 6. Gestion des Utilisateurs (Partie 2)
+## 💥 Contexte
 
-- Synchronisez les utilisateurs avec **LDAP**.
-- Définissez les rôles et permissions pour chaque utilisateur selon les besoins de votre organisation.
-
----
-
-## 🔧 7. Configuration de l'Annuaire LDAP
-
-1. Accédez à **Configuration > Authentification > LDAP**.
-2. Renseignez les informations de connexion LDAP.
-3. Testez la synchronisation pour vérifier que les utilisateurs sont importés correctement.
+L'utilisation de **GLPI** dans un environnement professionnel permet de centraliser et de structurer la gestion du parc informatique. Que ce soit pour la gestion des licences, des incidents ou des utilisateurs, **GLPI** facilite ces tâches essentielles.
 
 ---
 
-## 🛡️ 8. Gestion des Tickets d’Incident
+## 🛡️ Fonctionnalités de GLPI
 
-1. Allez dans **Assistance > Tickets**.
-2. Créez des tickets d'incident, affectez-les aux techniciens et suivez le statut.
-
----
-
-## 🛢️ 9. Gestion des Connexions Réseaux
-
-- Créez des équipements réseau comme des commutateurs et routeurs.
-- Documentez les connexions physiques avec des plans de réseau.
-
----
-
-## 💻 10. Gestion des Imprimantes
-
-- Ajoutez les imprimantes via **Inventaire > Périphériques**.
-- Gérez les consommables et définissez les alertes pour le remplacement des cartouches.
+- **Inventaire Matériel** : Ordinateurs, périphériques, équipements réseau.
+- **Gestion Logicielle** : Licences, installations, versions.
+- **Gestion des Consommables** : Cartouches d'imprimantes, accessoires.
+- **Suivi des Tickets d'Incident** : Création, assignation, résolution.
+- **Gestion des Fournisseurs et Budgets**.
+- **Configuration LDAP et Réseaux**.
 
 ---
 
