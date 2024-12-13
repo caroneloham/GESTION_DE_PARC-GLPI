@@ -2,6 +2,8 @@
 
 ![Banner](Img/back.png)
 
+[![GLPI](https://img.shields.io/badge/GLPI-009688?style=flat-square&logo=glpi&logoColor=white)](https://glpi-project.org/) [![LDAP](https://img.shields.io/badge/LDAP-000080?style=flat-square&logo=ldap&logoColor=white)](https://ldap.com/) [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)](https://httpd.apache.org/) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+
 ## 📊 Table des Matières
 
 1. [Introduction](#1-introduction)  
