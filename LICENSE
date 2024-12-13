@@ -1,0 +1,31 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)
+
+Copyright (c) 2024 caroneloham
+
+This license applies to all content within this repository, including but not limited to documentation, configurations, images, scripts, and related materials (collectively referred to as the "Work").
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Work, to use, copy, take screenshots, distribute, and share portions of the Work, subject to the following conditions:
+
+1. Attribution:
+   You must give appropriate credit to the original author, "caroneloham", provide a link to the repository, and indicate if changes were made. Proper attribution must be clear and visible in any usage, such as:
+   "Content derived from the 'pfSense Network Configuration and Security Guide' by caroneloham, available at https://github.com/caroneloham."
+
+2. Non-Commercial Use:
+   You may not use the Work for commercial purposes without explicit written permission from the author.
+
+3. Share-Alike:
+   If you remix, transform, or build upon the Work, you must distribute your contributions under the same license as the original.
+
+4. Permissions and Restrictions:
+   - You are allowed to capture screenshots, copy sections, and use excerpts of the Work for personal or educational purposes, provided proper attribution is given.
+   - The Work includes software configurations, scripts, and documentation provided "as is" without warranty of any kind.
+   - You may not add additional legal terms or technological measures that restrict others from using the Work under these terms.
+
+5. Disclaimer of Warranty:
+   The Work is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement. The author is not liable for any claims, damages, or other liabilities arising from the use or inability to use the Work.
+
+6. Redistribution:
+   When redistributing the Work or derivative works, you must include this full license text and ensure that attribution is clearly provided.
+
+For the full legal text of this license, visit:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
